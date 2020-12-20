@@ -1,0 +1,13 @@
+<header class="page-header">
+    <div class="top-bar-container">
+        <a [routerLink]="['/']" routerLinkActive="router-link-active" >
+            <img src="./../../../assets/images/icons/back.svg" alt="back" />
+        </a>
+        <img src="./../../../assets/images/logo.svg"  alt="logo" />
+    </div>
+
+    <div class="header-content">
+        <strong>{{title}}</strong>
+        <p>{{description ? description : null}}</p>
+    </div>
+</header>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Curso Javascript</title>
+</head>
+<body>
+    
+<div id="app"> 
+    <!-- <button onclick="mostraAlerta()"> Me pressione</button>
+    <input type="text" name="nome"/>
+    <button class="botao"> Adicionar</button> -->
+</div>
+
+    <script>
+
+        var inputElement = document.getElementById('nome');
+
+        function mostraAlerta(){
+            alert('Botão clicado');
+        }
+
+        //criando elemento
+        var linkElement = document.createElement('a');
+        linkElement.setAttribute('href', 'http://www.facebook.com');
+        var textElement = document.createTextNode('Acessar site do facebook');
+        linkElement.appendChild(textElement);
+
+        var containerElement = document.querySelector('#app');
+        containerElement.appendChild(linkElement);
+        //#region 
+        var nome = "Caio";
+        var idade = 23;
+        var peso = 110.5;
+
+        var alunos = ["Caio", "Juliani", "Rafael"];
+
+        //objeto
+        var pessoa = {
+            nome: "Fulano",
+            idade: 25,
+            peso: 90.5
+        };
+
+        console.log(alunos);
+
+        //OPERAÇÕES MATEMÁTICAS
+
+        var x = 10, y = 5;
+        console.log(x,y);
+        var resultado = x + y;
+        console.log(resultado);
+
+        // FUNÇÕES
+        function soma(num1, num2){
+            var resultado = num1 + num2;
+
+            return resultado;
+        }
+
+        var resultado = soma (1, 2);
+        console.log(resultado);
+
+        function retornaSexo(sexo){
+            //M,F
+            //Masculino, Feminino
+            if(sexo == 'M'){
+                return 'Masculino';
+            } else {
+                return 'Feminino';
+            }
+
+        }
+
+        var resultado = retornaSexo('M');
+
+
+        var sex = 'M', idade = 23;
+        if(sexo === 'M' && idade >= 18){
+            console.log('OK');
+        }
+
+        //condição ternátia
+        var retorno = (sex ==='M') ? 'Masculino' : 'Feminino';
+    
+        //estrutura de repetição
+        //for = ideal para quando sabe o tamanho do fluxo
+        for (var i = 0; i <= 100; i++){
+            console.log(i);
+        }
+
+        //ideal quando nao sabe o tamanho do fluxo
+        while(j > 50){
+            console.log(j);
+
+        }
+
+        //intervalo de execução
+        function exibeAlgo(){
+            console.log('Hello World');
+        }
+
+        setInterval(exibeAlgo, 5000);
+        setTimeout(exibeAlgo, 5000);
+    
+        //#endregion
+
+    </script>
+        
+</body>
+</html>

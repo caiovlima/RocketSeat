@@ -1,0 +1,18 @@
+<div id="page-teacher-list" class="container">
+    <app-pageheader [title]="'Estes são os Proffys disponíveis.'"></app-pageheader>
+    <form id="search-teachers">
+        <app-input [label]="'Matéria'" [name]="'subject'" [inputType]="'text'"></app-input>
+
+        <app-input [label]="'Dia da Semana'" [name]="'week_day'" [inputType]="'text'"></app-input>
+
+        <app-input [label]="'Hora'" [name]="'text'" [inputType]="'time'"></app-input>
+    </form>
+
+    <main>
+        <app-teacher-item></app-teacher-item>
+
+        <app-teacher-item></app-teacher-item>
+
+        <app-teacher-item></app-teacher-item>
+    </main>
+</div>

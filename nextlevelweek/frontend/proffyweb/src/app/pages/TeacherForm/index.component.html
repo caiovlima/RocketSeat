@@ -1,0 +1,43 @@
+<div id="page-teacher-form">
+    <app-pageheader [title]="'Que incrível que você quer dar aulas.'"
+        [description]="'O primeiro passo é preencher esse formulário de inscrição'"></app-pageheader>
+
+        <main>
+            <fieldset>
+                <legend>Seus Dados</legend>
+
+                <app-input [label]="'Nome Completo'" [name]="'name'" [inputType]="'text'"></app-input>
+                <app-input [label]="'Avatar'" [name]="'avatar'" [inputType]="'text'"></app-input>
+                <app-input [label]="'Whatsapp'" [name]="'whatsapp'" [inputType]="'text'"></app-input>
+                <app-input [label]="'Biografia'" [name]="'biografia'" [inputType]="'textarea'"></app-input>
+            </fieldset>
+
+            <fieldset>
+                <legend>Sobre a Aula</legend>
+
+                <app-input [label]="'Matéria'" [name]="'subject'" [inputType]="'select'"></app-input>
+                <app-input [label]="'Custo por Aula'" [name]="'cost'" [inputType]="'text'"></app-input>
+            
+            </fieldset>
+
+            <fieldset>
+                <legend>Sobre a Aula</legend>
+
+                <app-input [label]="'Matéria'" [name]="'subject'" [inputType]="'text'"></app-input>
+                <app-input [label]="'Custo por Aula'" [name]="'cost'" [inputType]="'text'"></app-input>
+            
+            </fieldset>
+
+            <footer>
+                <p>
+                    <img src="../../../assets/images/icons/warning.svg" alt="aviso importante" />
+                    Importante <br />
+                    Preencha todos os dados
+                </p>
+
+                <button type="button">
+                    Salvar Cadastro
+                </button>
+            </footer>
+        </main>
+</div>
