@@ -10,24 +10,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/caiovlima/Alura">
+  <a href="https://github.com/caiovlima/RocketSeat">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Alura Training Repo</h3>
+  <h3 align="center">RocketSeat Training Repo</h3>
 
   <p align="center">
     This repository contains some projects i've been creat to study some tecnologys has available in educational
-    online platform <a href="https://www.alura.com.br/"><strong>Alura</strong></a>
+    online platform <a href="https://rocketseat.com.br/"><strong>RocketSeat</strong></a>
     <br />
-    <a href="https://github.com/caiovlima/Alura"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/caiovlima/RocketSeat"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/caiovlima/Alura">View Demo</a>
+    <a href="https://github.com/caiovlima/RocketSeat">View Demo</a>
     ·
-    <a href="https://github.com/caiovlima/Alura/issues">Report Bug</a>
+    <a href="https://github.com/caiovlima/RocketSeat/issues">Report Bug</a>
     ·
-    <a href="https://github.com/caiovlima/Alura/issues">Request Feature</a>
+    <a href="https://github.com/caiovlima/RocketSeat/issues">Request Feature</a>
   </p>
 </p>
 
@@ -65,16 +65,13 @@
 ## About The Project
 
 Each folder contains a specific topic were i learned:
-* [Alura_InicianteEmProgramacao](https://github.com/caiovlima/Alura/tree/master/Alura_InicianteEmProgramacao) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+* [BootCamp-RocketSeat](https://github.com/caiovlima/RocketSeat/tree/main/BootCamp-RocketSeat) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-* [AluraCar](https://github.com/caiovlima/Alura/tree/master/AluraCar) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+* [GoWeekFeb19](https://github.com/caiovlima/RocketSeat/tree/main/GoWeekFeb19) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-* [CasaDoCodigo](https://github.com/caiovlima/Alura/tree/master/CasaDoCodigo) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> 
+* [Launcher](https://github.com/caiovlima/RocketSeat/tree/main/Launcher) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-* [DataScience](https://github.com/caiovlima/Alura/tree/master/DataScience) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-
-* [Trilha_CSharp_Alura](https://github.com/caiovlima/Alura/tree/master/Trilha_CSharp_Alura) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> 
+* [nextlevelweekt](https://github.com/caiovlima/RocketSeat/tree/main/nextlevelweek) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
 
 
@@ -82,7 +79,7 @@ Each folder contains a specific topic were i learned:
 Total technologys i used in this repository
 
 
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>  <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nuget/nuget.png"></code>  <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
+<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yarn/yarn.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 
 
 
@@ -94,7 +91,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 * [NodeJS](https://nodejs.org/en/)
-* [.Net Core](https://dotnet.microsoft.com/download/dotnet-core)
+* [ReactJS](https://reactjs.org/)
 * Optional [VSCode](https://code.visualstudio.com/)
 
 * npm
@@ -107,7 +104,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/caiovlima/Alura.git
+   git clone https://github.com/caiovlima/RocketSeat.git
    ```
 2. Install NPM packages 
    ```sh
@@ -119,7 +116,7 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/caiovlima/Alura/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/caiovlima/RocketSeat/issues) for a list of proposed features (and known issues).
 
 
 
@@ -148,14 +145,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/caiovlima)](https://github.com/caiovlima) · [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioviniciuslima/)](https://www.linkedin.com/in/caioviniciuslima/) · [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatocaiovlimat@gmail.com)](mailto:contatocaiovlima@gmail.com)
 
-Project Link: [https://github.com/caiovlima/Alura](https://github.com/caiovlima/Alura)
+Project Link: [https://github.com/caiovlima/RocketSeat](https://github.com/caiovlima/RocketSeat)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Alura](https://www.alura.com.br/)
+* [RocketSeat](https://rocketseat.com.br/)
 
 
 
@@ -163,15 +160,15 @@ Project Link: [https://github.com/caiovlima/Alura](https://github.com/caiovlima/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/caiovlima/Alura.svg?style=for-the-badge
-[contributors-url]: https://github.com/caiovlima/Alura/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/caiovlima/Alura.svg?style=for-the-badge
-[forks-url]: https://github.com/caiovlima/Alura/network/members
-[stars-shield]: https://img.shields.io/github/stars/caiovlima/Alura.svg?style=for-the-badge
-[stars-url]: https://github.com/caiovlima/Alura/stargazers
-[issues-shield]: https://img.shields.io/github/issues/caiovlima/Alura.svg?style=for-the-badge
-[issues-url]: https://github.com/caiovlima/Alura/issues
-[license-shield]: https://img.shields.io/github/license/caiovlima/Alura.svg?style=for-the-badge
-[license-url]: https://github.com/caiovlima/Alura/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/caiovlima/RocketSeat.svg?style=for-the-badge
+[contributors-url]: https://github.com/caiovlima/RocketSeat/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/caiovlima/RocketSeat.svg?style=for-the-badge
+[forks-url]: https://github.com/caiovlima/RocketSeat/network/members
+[stars-shield]: https://img.shields.io/github/stars/caiovlima/RocketSeat.svg?style=for-the-badge
+[stars-url]: https://github.com/caiovlima/RocketSeat/stargazers
+[issues-shield]: https://img.shields.io/github/issues/caiovlima/RocketSeat.svg?style=for-the-badge
+[issues-url]: https://github.com/caiovlima/RocketSeat/issues
+[license-shield]: https://img.shields.io/github/license/caiovlima/RocketSeat.svg?style=for-the-badge
+[license-url]: https://github.com/caiovlima/RocketSeat/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/caiovlima
