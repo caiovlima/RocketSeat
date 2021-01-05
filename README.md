@@ -171,4 +171,4 @@ Project Link: [https://github.com/caiovlima/RocketSeat](https://github.com/caiov
 [license-shield]: https://img.shields.io/github/license/caiovlima/RocketSeat.svg?style=for-the-badge
 [license-url]: https://github.com/caiovlima/RocketSeat/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/caiovlima
+[linkedin-url]: https://www.linkedin.com/in/caioviniciuslima/
